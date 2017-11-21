@@ -79,25 +79,25 @@ owner:
 # For external links add external: true
 links:
   - title: <i class="iconside iconm-home"></i> Home
-    url: /
+    url: /lanyon/
   - title: <i class="iconside iconm-user"></i> About
-    url: /about/
+    url: /lanyon/about/
   - title: <i class="iconside iconm-quill"></i> Blog
-    url: /blog/
+    url: /lanyon/blog/
   - title: <i class="fa fa-tags"></i> Tags
-    url: /tags/
+    url: /lanyon/tags/
   - title: <i class="fa fa-archive"></i> Archive
-    url: /archive/
+    url: /lanyon/archive/
   - title: <i class="iconside iconm-wordpress"></i> Old Blog
     url: https://foo.wordpress.com
-    external: true
+    external: false
   - title: <i class="iconside iconm-envelop"></i> Contact
-    url: /contact/
+    url: /lanyon/contact/
   - title: <i class="iconside iconm-twitter"></i> Twitter
     url: https://twitter.com/abcd
-    external: true
+    external: false
   - title: <i class="iconside iconm-feed2"></i> Feed
-    url: /feed.xml
+    url: /lanyon/feed.xml
 
 # Google Custom Search:
 #google_search: xyz123abc
